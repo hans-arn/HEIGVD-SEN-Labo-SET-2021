@@ -62,6 +62,37 @@ Vous découvrirez l'un des outils les plus couramment utilisés par les ingénie
 
 Pour le collecteur d'identifiants, montrez que vous avez cloné un site en indiquant son adresse web et l'interface d'utilisateur. Saisissez les informations d'identification sur votre clone local, puis cliquez le bouton de connexion. Essayez plusieurs sites comme facebook.com, twitter.com, et d'autres qui puissent vous intéresser. Faites des captures d'écran des mots de passe collectés dans vos tests avec SET.
 
+### Test - linkedin
+
+Dans ce cas, j'ai pu copié le site de manière approximative et ainsi obtenir les identifiants voulu. Mais la partie apparence est très loin du modèle
+
+![](img/1a.png)
+
+![](img/1.png)
+
+### Test - github
+
+La copie du site est en tout point pareil à son modèle et à permis d'obtenir les identifants voulus.
+
+![](img/2a.png)
+
+![](img/2.png)
+
+### Test - webmail heig
+
+Même si la copie est parfaite, elle n'est pas fonctionnelle. en cliquant sur **sign in** la page produit une erreur et ne capture pas les identifiants rentrés par l'utilisateurs.![](img/3a.png)
+
+![](img/3.png)
+
+### Test - twitter 
+
+Ici une protection, volontaire ou non, n'as pas permis de copier la page de login. Une erreur s'affichait à chaque fois. J'ai essayé de copier la page **oubli de mot de passe**, On peut cette fois copier la page pour retrouver son compte. Même si l'apparence est loin du modèle, elle est tout de même fonctionnelle.
+
+![](img/4a.png)
+
+![](img/4.png)
+
+
 # Exercice 2 - Créer une attaque de phishing
 
 Essayez la fonction d'attaque par phishing. C'est très facile à faire. Vous pouvez vous référer à ce lien pour plus d'informations http://www.computerweekly.com/tutorial/Social-Engineer-Toolkit-SET-tutorial-for-penetration-testers
